@@ -1,0 +1,1 @@
+Predict the price of the Airline. Data of several Airlines with various source and destination are available. It requires extensive investigation at what time the flight leaves a destination, total stops, flight duration etc. The objective is we should predict the as accurate as possible with the possible information Predicted the accuracy with more than 86%. 
