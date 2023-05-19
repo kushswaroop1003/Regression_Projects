@@ -1,1 +1,2 @@
 A large data set with more than 90 variables to predict the price of a house. House Puchase is probably the biggest investment an average individual makes, so correctly identifying the price of house along with understanding of factors affecting it helps future buyers make a decision around house purchase and the companies can leverage the model to understand the factors and predict the price.
+Also applied dimensionality reduction technique like PCA
